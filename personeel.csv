@@ -1,0 +1,32 @@
+voornaam,achternaam,geslacht,afdeling,functie,loon,bedrijfswagen
+Jan,Van den Beek,M,IT,Developer,4200,Ja
+Els,Janssens,F,HR,HR Officer,3600,Nee
+Tom,Vermeulen,V,Sales,Accountmanager,4500,Ja
+Sara,Maes,V,Finance,Boekhouder,3900,Nee
+Pieter,Willems,M,IT,Systeembeheerder,4300,Ja
+An,Claes,V,Marketing,Marketeer,3700,Nee
+Koen,Dubois,M,Operations,Planner,4000,Ja
+Lotte,Hermans,V,IT,Tester,3500,Nee
+Bram,Martens,M,Sales,Verkoper,3400,Ja
+Sofie,Goossens,V,Finance,Controller,4800,Ja
+Nick,Wouters,M,HR,Recruiter,3800,Nee
+Eva,Aerts,V,Marketing,Content Specialist,3550,Nee
+Jeroen,Van Damme,M,Operations,Teamlead,5000,Ja
+Nina,Vandenberghe,V,IT,Business Analyst,4600,Ja
+Stijn,De Smet,M,Finance,Analist,4100,Nee
+Lisa,Verstraete,V,Sales,Key Accountmanager,5200,Ja
+Arne,Mertens,M,IT,Data Engineer,5100,Ja
+Katrien,Pauwels,V,HR,HR Manager,5500,Ja
+Wim,Lenaerts,M,Operations,Magazijnchef,4200,Ja
+Hanne,Van den Broeck,V,Marketing,Brand Manager,4900,Ja
+Thomas,Segers,M,IT,Support Engineer,3300,Nee
+Julie,Michiels,V,Finance,Payroll Officer,3650,Nee
+Ruben,Van Acker,M,Sales,Business Developer,4700,Ja
+Inge,De Cock,V,Operations,Coördinator,4050,Nee
+Daan,Verbeek,M,IT,Cloud Engineer,5400,Ja
+Kim,Vos,V,Marketing,Grafisch Ontwerper,3450,Nee
+Dries,Bogaerts,M,Finance,CFO,8000,Ja
+Leen,Hooyberghs,V,HR,Learning Specialist,3950,Nee
+Mathias,Roels,M,Operations,Productiemanager,5600,Ja
+Femke,Nuyts,V,IT,Product Owner,5800,Ja
+Bjorn,Lecis,M,Management,CDO,5,Nee
